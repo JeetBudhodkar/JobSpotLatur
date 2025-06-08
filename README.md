@@ -30,5 +30,5 @@ Find your dream job or post one — fast, free, and secure!
 
 ---
 
-💼 Developed with ❤️ by [Your Name]
+💼 Developed with ❤️ by [Jeet Budhodkar]
 
