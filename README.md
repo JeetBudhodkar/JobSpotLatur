@@ -13,11 +13,11 @@ Find your dream job or post one — fast, free, and secure!
 
 | Home | Job Posts | All Jobs |
 |------|-----------|----------|
-| ![](screenshots/home.png) | ![](screenshots/jobposts.png) | ![](screenshots/alljobs.png) |
+| ![](Screenshots/home.png) | ![](Screenshots/jobposts.png) | ![](Screenshots/alljobs.png) |
 
 | Login | Register | Post a Job |
 |-------|----------|------------|
-| ![](screenshots/login.png) | ![](screenshots/register.png) | ![](screenshots/jobposting.png) |
+| ![](Screenshots/login.png) | ![](Screenshots/register.png) | ![](Screenshots/jobposting.png) |
 
 ## 📦 Download APK
 
